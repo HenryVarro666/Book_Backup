@@ -2,12 +2,12 @@
 Backup for interesting books
 
 
-# MIND Papers
-## DICCCOL
+## MIND Papers
+### DICCCOL
 1. DICCCOL: Dense Individualized and Common Connectivity-Based Cortical Landmarks
 2. Optimization of functional brain ROIs via maximization of consistency of structural connectivity profiles
 
-## Three Hinge
+### Three Hinge
 1. Commonly preserved and species-specific gyral folding patterns across primate brains
 2. Cortical 3-hinges could serve as hubs in cortico-cortical connective network
 3. Denser Growing Fiber Connections Induce 3-hinge Gyral Folding
@@ -16,7 +16,7 @@ Backup for interesting books
 6. Identifying Cross-individual Correspondences of 3-hinge Gyri
 7. JOINT ANALYSIS OF GYRAL FOLDING AND FIBER SHAPE PATTERNS
 
-## Alzheimer's Disease
+### Alzheimer's Disease
 1. A review on neuroimaging-based classification studies and associated feature extraction methods for Alzheimer's disease and its prodromal stages
 
 
@@ -50,4 +50,23 @@ Backup for interesting books
 - Medical Image Recognition, Segmentation and Parsing
 - MEDICAL IMAGING ARTIFICIAL INTELLIGENCE, IMAGE RECOGNITION, AND MACHINE LEARNING TECHNIQUES
 
-## 
+## Novels
+- 《乡村教师·刘慈欣科幻自选集》
+- One Hundred Years of Solitude - Gabriel Garcia Marquez
+- 刘慈欣短篇科幻小说合集 (刘慈欣) (z-lib.org)
+- 别和她说话 (遇瑾) (z-lib.org)
+- 带上她的眼睛 (刘慈欣) (z-lib.org)
+- 朝闻道 (刘慈欣) (z-lib.org)
+- 百年孤独（黄锦炎）
+- 神雕侠侣-神雕侠侣
+
+## Python
+- Python教程
+
+## R
+- An Introduction to Statistical Learning with Applications in R
+- DATA VISUALIZATION A PRACTICAL INTRODUCTION
+- R for Data Science IMPORT, TIDY, TRANSFORM, VISUALIZE, AND MODEL DATA
+- R Markdown The Definitive Guide
+
+
